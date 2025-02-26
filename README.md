@@ -17,7 +17,7 @@ Gosto de desafios e daquela sensação incrível de dever cumprido quando algo f
 🔗 [Portfólio](https://portfolio-orcin-psi-55.vercel.app/)  
 🔗 [E-mail](mailto:rafavbueno@gmail.com)
 
----
+--- 
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
