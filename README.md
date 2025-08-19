@@ -9,7 +9,7 @@ Tenho experiência com: JavaScript, TypeScript, NextJS, React, Redux, HTML5, CSS
 
 Gosto de desafios e daquela sensação incrível de dever cumprido quando algo fica pronto. Característica essa que me motivou a seguir com a programação.
 
-📚 Atualmente, estou aprimorando meus conhecimentos aprendendo **Cloud Computing e GoLang**.
+📚 Atualmente, estou aprimorando meus conhecimentos aprendendo **Python**.
 
 ### Contato
 
