@@ -5,7 +5,7 @@ Sou formado em **Educação Física** (2020) e atualmente curso **Análise e Des
 
 ## 💻 Desenvolvedor Web FullStack
 
-Tenho experiência com: JavaScript, TypeScript, NextJS, React, Redux, HTML5, CSS3, Node.js, Express, PostgreSQL, Prisma, Git.
+Tenho experiência com: JavaScript, TypeScript, Node.js, Express, Next.js, React, Redux, Python, FastAPI, Docker, HTML5, CSS3, Git, PostgreSQL e Prisma ORM.
 
 Gosto de desafios e daquela sensação incrível de dever cumprido quando algo fica pronto. Característica essa que me motivou a seguir com a programação.
 
@@ -32,4 +32,7 @@ Gosto de desafios e daquela sensação incrível de dever cumprido quando algo f
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
